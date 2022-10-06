@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "350502594757",
+    "project_id": "customerstore-4d613",
+    "storage_bucket": "customerstore-4d613.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:350502594757:android:3aaffd43267d57504328ac",
+        "android_client_info": {
+          "package_name": "com.customerassigment"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "350502594757-l6sro1dmmkie5959irsiij92sjcj1bi3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDwXQiaS0Hhcw7seLWaMrRq9mMw0Fr_pS8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "350502594757-l6sro1dmmkie5959irsiij92sjcj1bi3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
